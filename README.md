@@ -35,7 +35,7 @@ We wrote a working code that can trade stocks and make a profit. And used the ti
 ## What we learned
 We learnt a lot from our mistakes! We were really persistent and had a good crack at trying to solve the problems we encountered. We learnt a lot about structuring our logic and some more complex implementation in python.
 
-## What's next for Optiver Market Maker
+## What's next?
 Fine-tuning the ideas and code to make the algorithm more successful. Mainly need to address the clearing of trades. Looking forward to taking part in future challenges from Optiver and in future Hackathons! Thanks to Optiver for providing a great platform and challenge for a very fun 36 hours of programming!
 
 
